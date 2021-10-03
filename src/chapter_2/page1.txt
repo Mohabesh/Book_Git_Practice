@@ -1,0 +1,4 @@
+
+we make new files under chapter_2 with name of page1
+
+just for practice purpose

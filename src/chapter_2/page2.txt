@@ -1,5 +1,5 @@
 
-this is page 2 under chapter 2
+this is page 2 under chapter_2
 
 just for practice purpose
 adding some texts
